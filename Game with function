@@ -1,0 +1,10 @@
+#Write a Python function to sum all the numbers in a list.
+#Sample List : (8, 2, 3, 0, 7)
+#Expected Output : 20
+def tuple():
+  count=0
+  for i in range(len(tup)):
+       count+=1
+       return count
+tup=(8, 2, 3, 0, 7)
+print(sum(tup))
